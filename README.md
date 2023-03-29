@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 <div style="margin-left: 20%;">
 
-- 🔭 I’m excited about the accessibility of AI and practical uses of NLP. 
-- 🌱 I’m currently searching for opportunities to grow my full-stack skillset. 
-- 💬 Ask me about **socket.io, language acquisition, or PostgreSQL queries**.
+- 🔭 I’m excited about the accessibility of AI and practical uses of NLP
+- 🌱 I’m currently searching for opportunities to grow my full-stack skillset
+- 💬 Ask me about **socket.io, language acquisition, or PostgreSQL queries**
 
-- 📫 Reach me at **gbennettbrandt@gmail.com** or connect with me on <a href="https://linkedin.com/in/https://www.linkedin.com/in/gabriel-bennett-brandt/" target="blank">LinkedIn</href>.
+- 📫 Reach me at **gbennettbrandt@gmail.com** or connect with me on <a href="https://linkedin.com/in/https://www.linkedin.com/in/gabriel-bennett-brandt/" target="blank">LinkedIn</href>
 
 </div>
 
